@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+12:19:43	185/185	---M--	301	error ('Moved%20Permanently')	text/html	date:Wed,%2014%20Aug%202019%2012:19:43%20GMT	http://www.4por4.pt/	C:/My%20Web%20Sites/astrology/www.4por4.pt/index.html	(from )
+12:19:43	185/185	---M--	301	error ('Moved%20Permanently')	text/html	date:Wed,%2014%20Aug%202019%2012:19:43%20GMT	http://www.4por4.pt/robots.txt		(from )

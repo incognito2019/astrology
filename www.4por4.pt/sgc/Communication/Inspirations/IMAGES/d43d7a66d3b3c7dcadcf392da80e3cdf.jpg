@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Server: nginx/1.10.3
+Date: Wed, 14 Aug 2019 12:47:38 GMT
+Content-Type: image/jpeg
+Content-Length: 33871
+Connection: keep-alive
+Last-Modified: Mon, 23 Jul 2018 17:03:14 GMT
+ETag: "844f-571ad9f01fbe9"
+Accept-Ranges: bytes
+Cache-Contr
